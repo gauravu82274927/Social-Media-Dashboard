@@ -96,7 +96,7 @@ form .form-group input {
 }
 
 .option-item input[type="checkbox"] {
-    width: 20px;
+    width: 100px;
     height: 20px;
     cursor: pointer;
 }
